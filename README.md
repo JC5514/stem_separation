@@ -8,7 +8,7 @@ Here's the improved display of the table with the final fair price clearly indic
 |-----------------------------------|----------------------------------------|---------------------------------------|-----------------------------------------|-----------------------------|
 | Rent                              | $3,750/month                           | $3,600/month                          | ❌                                       | -$150                       |
 | Bedrooms                          | 2                                      | 3                                     | ❌                                       | -$100                       |
-| Bathrooms                         | 2                                      | 2                                     | ❌                                       | -$0                         |
+| Bathrooms                         | 2                                      | 2                                     | 🟰                                       | -$0                         |
 | Square Footage                    | 950 sq ft                              | 1,300 sq ft                           | ❌                                       | -$150                       |
 | Year Built                        | 1960                                   | 2021                                  | ❌                                       | -$70                        |
 | Orientation                       | East                                   | South                                 | ❌                                       | -$80                        |
