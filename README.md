@@ -16,4 +16,4 @@ Here's the improved display of the table with the final fair price clearly indic
 | Appliances                        | Stove, Refrigerator, Microwave, Dishwasher, Laundry Washer/Dryer | Stainless Steel Appliances, Washer/Dryer in Unit | 🟰                                       | -$0                         |
 | Total Cost for Move-in Delay      | $1,200 (5 days x $200/day)             | $0                                    | ❌                                       | -$100                       |
 
-|**Fair Price**: $3,100 per month|  | |  | | |  |
+**Fair Price**: $3,100 per month
